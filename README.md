@@ -1,6 +1,3 @@
-hello world - 2nd feature
-## Updating readmes
-
 # ZoroPay
 
 **ZoroPay** is a seamless platform designed to simplify the management of invoices for services provided. By integrating with Stripe, it automates the process of creating charges and managing payments, taking the hassle out of financial transactions. Whether you're a freelancer, small business owner, or part of a large enterprise, ZoroPay offers a user-friendly solution to streamline invoicing, track payments, and generate payment links effortlessly. It’s the ultimate tool to save time, reduce errors, and focus on what truly matters—growing your business. Simplify, organize, and thrive with ZoroPay.
